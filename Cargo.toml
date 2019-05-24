@@ -1,0 +1,7 @@
+[package]
+name = "baseconv"
+version = "0.1.0"
+authors = ["caub <cyril.auburtin@gmail.com>"]
+edition = "2018"
+
+[dependencies]

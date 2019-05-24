@@ -1,0 +1,6 @@
+# ignore extension-less files in src/
+/src/*
+!/src/*.*
+
+/target
+/Cargo.lock
